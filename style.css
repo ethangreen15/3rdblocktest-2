@@ -1,6 +1,28 @@
 .index{
     background-color: red;
+    color:blue;
 }
 .page1{
     background-color: purple;
+    color: red;
+}
+.heading{
+    text-align:center;
+    font-size:48px;
+}
+.page2{
+    background-color: lightblue;
+    color: red;
+}
+.page3{
+    background-color:blueviolet;
+    color: purple;
+}
+.page4{
+    background-color: orange;
+    color: green;
+}
+.page5{
+    background-color: gold;
+    color: darkgoldenrod;
 }
